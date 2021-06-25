@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Re-Os Email Template", "Re-Os Email Template\Re-Os Email Template.csproj", "{253B4409-9E69-44B2-A00C-1428B614896B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253B4409-9E69-44B2-A00C-1428B614896B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253B4409-9E69-44B2-A00C-1428B614896B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253B4409-9E69-44B2-A00C-1428B614896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253B4409-9E69-44B2-A00C-1428B614896B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC2F0FE-72A9-4AEE-B3BA-296A93119F84}
+	EndGlobalSection
+EndGlobal
